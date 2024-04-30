@@ -1,0 +1,2 @@
+# templates
+Noop Application Templates
