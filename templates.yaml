@@ -1,39 +1,47 @@
 - name: Astro Static Site
   repo: https://github.com/noop-inc/template-static-site-astro
-  icon: https://avatars.githubusercontent.com/u/63209169?v=4
+  icon: https://noop.dev/assets/docs/logos/astro.svg
   tags:
     - astro
     - static
 - name: Python Django
   repo: https://github.com/noop-inc/template-python-django
-  icon: https://avatars.githubusercontent.com/u/63209169?v=4
+  icon: https://noop.dev/assets/docs/logos/django.svg
   tags:
     - python
     - service
 - name: Ruby on Rails
   repo: https://github.com/noop-inc/template-ruby-rails
-  icon: https://avatars.githubusercontent.com/u/63209169?v=4
+  icon: https://noop.dev/assets/docs/logos/rails.svg
   tags:
     - ruby
     - service
 - name: Rust Actix
   repo: https://github.com/noop-inc/template-rust-actix
-  icon: https://avatars.githubusercontent.com/u/63209169?v=4
+  icon: https://noop.dev/assets/docs/logos/actix.png
   tags:
     - rust
     - service
 - name: Java Spring Boot
   repo: https://github.com/noop-inc/template-java-spring-boot
-  icon: https://avatars.githubusercontent.com/u/63209169?v=4
+  icon: https://noop.dev/assets/docs/logos/spring.svg
   tags:
     - java
     - service
 - name: NodeJS Backend with Vue Frontend
   repo: https://github.com/noop-inc/template-nodejs-vue
-  icon: https://avatars.githubusercontent.com/u/63209169?v=4
+  icon: https://noop.dev/assets/docs/logos/vue.svg
   tags:
     - nodejs
     - vuejs
     - service
     - static
     - dynamodb
+- name: NextJS Static and SSR
+  repo: https://github.com/noop-inc/template-typescript-next
+  icon: https://noop.dev/assets/docs/logos/nextjs.svg
+  tags:
+    - nodejs
+    - nextjs
+    - service
+    - static
