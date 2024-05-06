@@ -1,34 +1,40 @@
 - name: Astro Static Site
+  author: Noop Inc
   repo: https://github.com/noop-inc/template-static-site-astro
   icon: https://avatars.githubusercontent.com/u/63209169?v=4
   tags:
     - astro
     - static
 - name: Python Django
+  author: Noop Inc
   repo: https://github.com/noop-inc/template-python-django
   icon: https://avatars.githubusercontent.com/u/63209169?v=4
   tags:
     - python
     - service
 - name: Ruby on Rails
+  author: Noop Inc
   repo: https://github.com/noop-inc/template-ruby-rails
   icon: https://avatars.githubusercontent.com/u/63209169?v=4
   tags:
     - ruby
     - service
 - name: Rust Actix
+  author: Noop Inc
   repo: https://github.com/noop-inc/template-rust-actix
   icon: https://avatars.githubusercontent.com/u/63209169?v=4
   tags:
     - rust
     - service
 - name: Java Spring Boot
+  author: Noop Inc
   repo: https://github.com/noop-inc/template-java-spring-boot
   icon: https://avatars.githubusercontent.com/u/63209169?v=4
   tags:
     - java
     - service
 - name: NodeJS Backend with Vue Frontend
+  author: Noop Inc
   repo: https://github.com/noop-inc/template-nodejs-vue
   icon: https://avatars.githubusercontent.com/u/63209169?v=4
   tags:

@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "common-prettier": "prettier \"**/*.{htm,html,json,md,markdown,yml,yaml}\" --cache",
+    "fix": "npm run common-prettier -- --write",
+    "lint": "npm run common-prettier -- --check"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
