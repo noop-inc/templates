@@ -1,42 +1,42 @@
 - name: Astro Static Site
   author: Noop Inc
   repo: https://github.com/noop-inc/template-static-site-astro
-  icon: https://noop.dev/assets/docs/logos/astro.svg
+  icon: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg
   tags:
     - astro
     - static
 - name: Python Django
   author: Noop Inc
   repo: https://github.com/noop-inc/template-python-django
-  icon: https://noop.dev/assets/docs/logos/django.svg
+  icon: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg
   tags:
     - python
     - service
 - name: Ruby on Rails
   author: Noop Inc
   repo: https://github.com/noop-inc/template-ruby-rails
-  icon: https://noop.dev/assets/docs/logos/rails.svg
+  icon: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg
   tags:
     - ruby
     - service
 - name: Rust Actix
   author: Noop Inc
   repo: https://github.com/noop-inc/template-rust-actix
-  icon: https://noop.dev/assets/docs/logos/actix.png
+  icon: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg
   tags:
     - rust
     - service
 - name: Java Spring Boot
   author: Noop Inc
   repo: https://github.com/noop-inc/template-java-spring-boot
-  icon: https://noop.dev/assets/docs/logos/spring.svg
+  icon: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg
   tags:
     - java
     - service
 - name: NodeJS Backend with Vue Frontend
   author: Noop Inc
   repo: https://github.com/noop-inc/template-nodejs-vue
-  icon: https://noop.dev/assets/docs/logos/vue.svg
+  icon: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg
   tags:
     - nodejs
     - vuejs
@@ -44,8 +44,9 @@
     - static
     - dynamodb
 - name: NextJS Static and SSR
+  author: Noop Inc
   repo: https://github.com/noop-inc/template-typescript-next
-  icon: https://noop.dev/assets/docs/logos/nextjs.svg
+  icon: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg
   tags:
     - nodejs
     - nextjs
