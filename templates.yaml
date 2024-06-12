@@ -52,3 +52,11 @@
     - nextjs
     - service
     - static
+- name: SvelteKit SSR
+  author: Noop Inc
+  repo: https://github.com/noop-inc/template-svelte-kit
+  icon: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg
+  tags:
+    - nodejs
+    - sveltekit
+    - service
